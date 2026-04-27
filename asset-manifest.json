@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/closet/static/css/main.dacb8d8c.css",
-    "main.js": "/closet/static/js/main.621573de.js",
-    "static/js/453.66f6b249.chunk.js": "/closet/static/js/453.66f6b249.chunk.js",
-    "index.html": "/closet/index.html",
-    "main.dacb8d8c.css.map": "/closet/static/css/main.dacb8d8c.css.map",
-    "main.621573de.js.map": "/closet/static/js/main.621573de.js.map",
-    "453.66f6b249.chunk.js.map": "/closet/static/js/453.66f6b249.chunk.js.map"
+    "main.css": "/closet1.0/static/css/main.dacb8d8c.css",
+    "main.js": "/closet1.0/static/js/main.c90913ac.js",
+    "static/js/453.66f6b249.chunk.js": "/closet1.0/static/js/453.66f6b249.chunk.js",
+    "index.html": "/closet1.0/index.html",
+    "main.dacb8d8c.css.map": "/closet1.0/static/css/main.dacb8d8c.css.map",
+    "main.c90913ac.js.map": "/closet1.0/static/js/main.c90913ac.js.map",
+    "453.66f6b249.chunk.js.map": "/closet1.0/static/js/453.66f6b249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dacb8d8c.css",
-    "static/js/main.621573de.js"
+    "static/js/main.c90913ac.js"
   ]
 }
